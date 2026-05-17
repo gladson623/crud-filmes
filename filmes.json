@@ -1,27 +1,50 @@
 [
     {
         "id": 1,
-        "titulo": "Interestelar",
-        "genero": "Ficção Científica"
+        "titulo": "Carros",
+        "genero": "Animação"
     },
     {
         "id": 2,
+        "titulo": "Avatar",
+        "genero": "Ficção Científica"
+    },
+    {
+        "id": 3,
         "titulo": "O Poderoso Chefão",
         "genero": "Crime"
     },
     {
-        "id": 3,
+        "id": 4,
+        "titulo": "Matrix Reloaded",
+        "genero": "Ação/Ficção Científica"
+    },
+        "id": 5,
         "titulo": "Matrix",
         "genero": "Ação"
     },
     {
-        "id": 4,
+        "id": 6,
         "titulo": "Parasita",
         "genero": "Drama"
     },
     {
-        "id": 5,
+        "id": 7,
         "titulo": "O Rei Leão",
+        "genero": "Animação"
+    },
+    {
+        "id": 8,
+        "titulo": "A Origem",
+        "genero": "Ficção Científica"
+    },
+        "id": 9,
+        "titulo": "Toy Story",
+        "genero": "Animação"
+    },
+    {
+        "id":10,
+        "titulo": "Dumbo",
         "genero": "Animação"
     }
 ]
